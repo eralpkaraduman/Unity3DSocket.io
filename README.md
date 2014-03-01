@@ -4,6 +4,8 @@ An Example for Unity3D 4.3.1
 ```
 
 don't forget to install node.js and Socket.io
+[node.js](http://nodejs.org)
+[Socket.io](http://socket.io)
 
 ```
 
